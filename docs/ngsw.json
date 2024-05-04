@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1714805557080,
+  "timestamp": 1714818018928,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,8 @@
         "/manifest.webmanifest",
         "/polyfills.40ff24b7adc590cb.js",
         "/runtime.fa6dd3c252b35148.js",
-        "/styles.367e0592c0bb21be.css"
+        "/styles.367e0592c0bb21be.css",
+        "/sw.js"
       ],
       "patterns": []
     },
@@ -63,7 +64,8 @@
     "/manifest.webmanifest": "29e260a19e1c3c9d9b92e6a751d009ccd3f8483d",
     "/polyfills.40ff24b7adc590cb.js": "e29d43f3452c6b68c7299163c64b8a9b9add17b3",
     "/runtime.fa6dd3c252b35148.js": "2be7ee7d2aad4b6e5a730abd802f73b6b62a23b3",
-    "/styles.367e0592c0bb21be.css": "6d3e8afcd415aea34e6fbb74d97a0bbd2db00611"
+    "/styles.367e0592c0bb21be.css": "6d3e8afcd415aea34e6fbb74d97a0bbd2db00611",
+    "/sw.js": "2b56fa8849b35a03e27afb835fc13de9b287d67f"
   },
   "navigationUrls": [
     {
